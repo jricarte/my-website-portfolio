@@ -4,6 +4,7 @@
   "description": "Jordan Ricarte's Web Development Portfolio",
   "main": "index.js",
   "scripts": {
+    "start": "serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jricarte/my-website-portfolio/issues"
   },
-  "homepage": "https://github.com/jricarte/my-website-portfolio#readme"
+  "homepage": "https://github.com/jricarte/my-website-portfolio#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
 }
