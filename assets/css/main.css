@@ -504,7 +504,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #39454b !important;
 		letter-spacing: 0.025em;
 	}
 
@@ -858,12 +858,12 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		color: #39454b;
+		color: #272e31;
 		display: block;
 		width: 100%;
 		padding: 0.65em 0.75em;
 		background: none;
-		border: solid 2px #e5e6e7;
+		border: solid 2px #777777;
 		color: inherit;
 		border-radius: 0.5em;
 		outline: none;
